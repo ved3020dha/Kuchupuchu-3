@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>For him ♥️my one and only♥️ </title>
+  <style>
+    body 
+    {
+      background: linear-gradient(#ff9a9e, #fad0c4);
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      color: #fff;
+      padding: 50px;
+    }
+    .card 
+    {
+      background: rgba(255,255,255,0.2);
+      padding: 30px;
+
+      border-radius: 20px;
+      max-width: 600px;
+      margin: auto;
+    }
+    h1 
+    {
+      font-size: 2.5em;
+    }
+    p 
+    {
+      font-size: 1.2em;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="card">
+    <h1>Happy Valentine’s Day 💕</h1>
+    <p>
+      To my favorite person,<br><br>
+      Every moment with you feels like magic.
+      This little website is just a small way
+      to show how much you mean to me ❤️
+    </p>
+    <p>— Yours, always 🌹</p>
+  </div>
+</body>
+</html>
